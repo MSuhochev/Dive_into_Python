@@ -1,0 +1,7 @@
+WARNING:UserManager:Файл с данными пользователей не найден. Создан новый.
+INFO:UserManager:Данные пользователей сохранены успешно.
+INFO:UserManager:Зарегистрирован новый пользователь: {'ID': 1, 'NumCard': '3333-3333-3333-3333', 'Name': 'Test_3', 'Surname': 'Testoff_3', 'Username': 'Test_3', 'Password': '123', 'Balance': 0}
+INFO:UserManager:Пользователь Test_3 вошел в свой аккаунт.
+INFO:AtmModel:Попытка пополнения счета для пользователя 1
+INFO:UserManager:Данные пользователей сохранены успешно.
+INFO:AtmModel:Пользователь 1 пополнил счет на 3000 у.е. Баланс: 3000.00 у.е.
